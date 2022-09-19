@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CubeFilter
+public class DecrementiflessthanfirstFilter
 {
     public static int[] cubes(int[] xs)
     {

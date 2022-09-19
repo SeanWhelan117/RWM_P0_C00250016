@@ -1,7 +1,7 @@
 {
-	"name": "ie.setu.cubefilter",
+	"name": "ie.setu.decrementiflessthanfirst",
 	"version": "0.1.0",
-	"displayName": "CubeFilter",
-	"description": "A Filter that cubes numbers.",
+	"displayName": "DecrementIfLessThanFirst",
+	"description": "A Filter that decrementiflessthanfirst.",
 	"unity": "2021.3"
 }
